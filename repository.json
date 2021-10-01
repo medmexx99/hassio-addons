@@ -1,5 +1,5 @@
 {
-  "name": "HA Add-ons by alexbelgium",
-  "url": "https://github.com/alexbelgium/hassio-addons",
-  "maintainer": "alexbelgium"
+  "name": "HA Add-ons by alexbelgium (adopted by medmexx99)",
+  "url": "https://github.com/medmexx99/hassio-addons",
+  "maintainer": "alexbelgium/medmexx99"
 }
